@@ -12,7 +12,7 @@ const CONFIG = {
     mess: 'Dù mọi Ny có ghi lý do gì thì mình vẫn luôn yêu bé nhó my baby',
     messDesc: 'Bé muốn biết biết thêm không ???',
     btnAccept: 'Muốnnnnnnnnnn',
-    messLink: 'file:///D:/Desktop/pp%20t%C3%ACm%20ki%E1%BA%BFm/ngh-c-master/ngh-c-master/dd.html',
+    messLink: 'https://nammmvn.github.io/',
     bgLink: 'https://huypham9205.github.io/tang-crush/img/bg.webp', //link ảnh nền
     iputBgLink: 'https://huypham9205.github.io/tang-crush/img/iput-bg.jpg', //link iputBgLink
     lookMeLink: 'https://huypham9205.github.io/tang-crush/img/lookMe.jpg', //link ảnh lookMe
